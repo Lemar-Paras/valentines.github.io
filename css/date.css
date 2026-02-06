@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-color: #bec3f9;
+  color: #bb9bda;
   display: flex;
   flex-direction: column;
 }
@@ -16,7 +16,7 @@ form .header {
   display: flex;
   font-size: 20px;
   margin-bottom: 20px;
-  color: #ff9494;
+  color: #967cd2;
 }
 
 .form-group {
@@ -34,16 +34,16 @@ form .header {
   font-family: "courier";
   margin-bottom: 10px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #8a7ee4;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
   transition: 0.3s;
 }
 
 .button:hover {
-  background-color: #ff9494;
-  color: #ffe3e1;
-  border: 2px solid #ff9494;
+  background-color: #c890f3;
+  color: #ada6f9;
+  border: 2px solid #8574e0;
 }
 
 input[type="date"] {
@@ -54,7 +54,7 @@ input[type="date"] {
   font-family: "courier";
   margin-bottom: 10px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #8b94e8;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
 }

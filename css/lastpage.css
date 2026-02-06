@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-color: #dac2e8;
+  color: #9e9ceb;
 }
 #thankyou {
   font-size: 50px;
@@ -20,16 +20,16 @@ body {
   font-family: "courier";
   margin-bottom: 20px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #b89bcf;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
-  box-shadow: 1px 1px 2px #ff9494;
+  box-shadow: 1px 1px 2px #94b2ff;
   transition: 0.3s;
 }
 
 .button:hover {
-  background-color: #ff9494;
+  background-color: #b8afeb;
   color: #ffe3e1;
-  border: 2px solid #ff9494;
+  border: 2px solid #c9d4f8;
   box-shadow: 1px 1px 2px #ffe3e1;
 }

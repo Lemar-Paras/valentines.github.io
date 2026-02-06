@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-color: #ded2fb;
+  color: #b09dee;
 }
 
 img {
@@ -23,17 +23,17 @@ img {
   margin: 10px;
   font-family: "courier";
   margin-bottom: 20px;
-  background-color: #ffe3e1;
+  background-color: #ead0f6;
   color: #e67373;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
-  box-shadow: 1px 1px 2px #ff9494;
+  box-shadow: 1px 1px 2px #b285c3;
   transition: 0.3s;
 }
 
 .answerButton:hover {
-  background-color: #ff9494;
-  color: #ffe3e1;
-  border: 2px solid #ff9494;
+  background-color: #a5a5f3;
+  color: #b175f0;
+  border: 2px solid #7727c7;
   box-shadow: 1px 1px 2px #ffe3e1;
 }

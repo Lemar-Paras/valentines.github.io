@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: courier;
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-color: #a4a4e2;
+  color: #774cb3;
 }
 #dessertquestion {
   font-size: 50px;
@@ -14,13 +14,13 @@ body {
   display: inline-table;
   margin: 10px;
   vertical-align: top;
-  color: #ff9494;
+  color: #8a63df;
 }
 .dessert-item img {
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  border: 5px solid #ff9494;
+  border: 5px solid hsl(254, 50%, 56%);
   object-fit: cover;
   padding: 10px;
 }
@@ -34,8 +34,14 @@ body {
   margin: 10px;
   font-family: "courier";
   margin-bottom: 20px;
-  background-color: #ffe3e1;
-  color: #e67373;
+  background-color: #b8b3e1;
+  color: #6f54c0;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
+}
+button:hover {
+  background-color: #b8afeb;
+  color: #8064e4;
+  border: 2px solid #c9d4f8;
+  box-shadow: 1px 1px 2px #ffe3e1;
 }
